@@ -1,0 +1,13 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.exe
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.runtimeconfig.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.runtimeconfig.dev.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\bin\Debug\netcoreapp3.1\XmlParseHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Модуль 18.2 XML Parce\XmlParseHomework\XmlParseHomework\obj\Debug\netcoreapp3.1\XmlParseHomework.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student id="1" firstName="Petr" secondName="Vorobushkin" age="23" group="SEP-203/2" marks="5 3 5 4 5 4 4 3 4" />
+  <student id="1" firstName="Ivan" secondName="Kolotushkin" age="19" group="SEB-101/1" marks="5 3 5 4 5 4 4 3 4" />
+</students>
